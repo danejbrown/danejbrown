@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Dane Brown
 
-<!--
-**danejbrown/danejbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior Systems Engineer** | 💡 Cloud Identity Architect | 🛠️ Builder of Smart, Secure, Automated Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Do
+
+- 🧠 Identity & Access Management (IAM) • Azure Entra ID (AAD), PingOne, Conditional Access
+- 🖥️ Cloud Infrastructure • Azure • AWS (Certified)
+- 🔐 Security-First Automation • PowerShell • Python • Lambda • SAML/OAuth/OpenID
+- 🧩 Integrations • Gmail API • Slack/Telegram Bots • Make.com • Custom APIs
+
+---
+
+### 🛠️ Featured Projects
+
+- 🔹 [**AI Email Agent**](https://github.com/danejbrown/ai-email-agent)  
+  → Summarizes Gmail inbox with OpenAI + Lambda + Secrets Manager  
+  → Hands-on with S3, Layered Python builds, OAuth, and GitHub pipelines
+
+- 🔹 *More coming soon...*
+
+
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/danejbrown)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=flat)](https://github.com/danejbrown)
+
+---
+
+🧠 *“I build things that make systems smarter and people’s lives easier.”*
