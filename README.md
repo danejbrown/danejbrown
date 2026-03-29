@@ -77,18 +77,6 @@ Previously: **IBM · Signode · Channel Partners Solutions**
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Dane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danejbrown&show_icons=true&theme=dark&hide_border=true&bg_color=07101F&title_color=60A5FA&icon_color=2563EB&text_color=94A3B8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danejbrown&layout=compact&theme=dark&hide_border=true&bg_color=07101F&title_color=60A5FA&text_color=94A3B8)
-
-</div>
-
----
-
 <div align="center">
 <sub>Building the AI layer businesses run on · <a href="https://connectiveview.com">connectiveview.com</a></sub>
 </div>
