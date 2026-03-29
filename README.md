@@ -46,16 +46,9 @@
 
 ---
 
-## Certifications
-
-CompTIA A+ · Network+ · Security+ · AWS Cloud Practitioner
-*ITIL 4 and LPIC-1 in progress*
-
----
-
 ## Background
 
-15+ years of progressive IT — Help Desk → Senior Systems Engineering → Infrastructure & Security Architecture. Deep hands-on experience in hybrid/multi-cloud environments, identity governance at scale, Zero Trust implementation, and endpoint management.
+15+ years of progressive IT — Help Desk → Senior Systems Engineering → Infrastructure & Security Architecture. Deep hands-on experience in hybrid/multi-cloud environments, identity governance at scale, Zero Trust implementation, and endpoint management. Industry-certified across infrastructure, security, and cloud. ITIL 4 and Linux in progress.
 
 Previously: IBM · Signode · Channel Partners Solutions
 
