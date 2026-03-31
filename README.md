@@ -20,7 +20,7 @@
 
 # Dane Brown
 
-**Infrastructure & Security Architect · AI Product Builder · Founder @ ConnectiveView**
+**Infrastructure & Security Architect → AI Engineer. Building autonomous agent systems and AI-powered products at ConnectiveView. USMC/USAF veteran.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dane-brown-a18b9441)
 [![ConnectiveView](https://img.shields.io/badge/connectiveview.com-2563EB?style=flat&logoColor=white)](https://connectiveview.com)
@@ -32,44 +32,40 @@
 
 ## What I'm Building
 
-**[ConnectiveView](https://connectiveview.com)** — an AI product company. I build automation tools for the systems I've spent 15 years inside.
+**[ConnectiveView](https://connectiveview.com)** — AI products for small businesses.
 
 | Product | Description | Status |
 |---------|-------------|--------|
-| 🏨 **AI Booking Assistant** | Hospitality automation — AI front desk, 24/7 | In development |
-| 🔐 **SENTINEL** | M365 & Azure security posture SaaS | In development |
+| **Porchlight** | AI booking assistant — built by an autonomous SDLC agent pipeline | In development |
+| **SENTINEL** | M365 & Azure security posture SaaS | In development |
+
+---
+
+## Current Project
+
+**Porchlight** — an AI booking assistant for small hospitality businesses. Handles inquiries, scheduling, and guest communication 24/7. Built end-to-end by an autonomous SDLC agent pipeline (design → code → test → deploy).
 
 ---
 
 ## Stack
 
+**Core**
+
+TypeScript · Next.js · Node.js · Claude API · Supabase · Netlify
+
 **Cloud & Identity**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat&logo=microsoft&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-**Development & Automation**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Azure · Microsoft 365 · Entra ID · Intune · AWS
 
 **Security**
 
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-1D4ED8?style=flat&logoColor=white)
-![Defender](https://img.shields.io/badge/Defender-00B4D8?style=flat&logo=microsoft&logoColor=white)
-![NIST](https://img.shields.io/badge/NIST-07101F?style=flat&logoColor=white)
+Zero Trust · Defender · NIST
 
 ---
 
 ## Background
 
-15+ years of progressive IT — Help Desk through Infrastructure & Security Architecture. Deep hands-on experience in hybrid and multi-cloud environments, identity governance at scale, Zero Trust implementation, and security automation. Industry-certified across infrastructure, security, and cloud.
+15+ years in infrastructure and security — from Help Desk through enterprise architecture. Specialist in the Microsoft stack: M365, Azure, Entra ID, Intune, Defender. Now applying that systems depth to AI engineering and autonomous agent development.
 
 Previously: **IBM · Signode · Channel Partners Solutions**
 
